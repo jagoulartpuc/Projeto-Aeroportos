@@ -1,0 +1,18 @@
+
+.Label{
+    -fx-text-fill: white;
+}
+.button{
+    -fx-text-fill: dimgray;
+    -fx-background-color: white;
+    -fx-effect: innershadow( gaussian, rgba( 3, 3, 3, 3 ), 40, 0, 5, 5 );
+}
+.leftPane{
+    -fx-background-image: url("aviaofundo.jpg");
+}
+.text{
+    -fx-font-family: cursive;
+    -fx-text-fill: black;
+    -fx-font-size: 22;
+    -fx-font-style: italic;
+}

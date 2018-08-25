@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poo-tf-181-THOMAS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poo_tf_181_THOMAS_jar</output-path>
+    <root id="archive" name="poo-tf-181-THOMAS.jar">
+      <element id="module-output" name="poo-tf-181-THOMAS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jxmapviewer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
